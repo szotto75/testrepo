@@ -1,2 +1,2 @@
 bob jim mary
-bob 
+bob jim mary
